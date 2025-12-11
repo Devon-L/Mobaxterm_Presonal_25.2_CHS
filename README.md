@@ -22,7 +22,7 @@
 
 - 官网：[MobaXterm](https://mobaxterm.mobatek.net/) 
 
-- 汉化：请从 [Releases](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases) 下载
+- 汉化：请从 [Releases](https://github.com/Devon-L/Mobaxterm_Presonal_25.2_CHS/releases) 下载
 
   > **MobaXterm** 是一个增强型的 Windows 终端。
   >
